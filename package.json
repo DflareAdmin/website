@@ -1,7 +1,7 @@
 {
-  "name": "@onwidget/astrowind",
+  "name": "dflare-website",
   "version": "1.0.0-beta.52",
-  "description": "AstroWind: A free template using Astro 5.0 and Tailwind CSS. Astro starter theme.",
+  "description": "Dflare – Empowering Digital Evolution.",
   "type": "module",
   "private": true,
   "engines": {
